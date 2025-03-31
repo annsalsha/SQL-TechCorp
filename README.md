@@ -1,1 +1,2 @@
 # SQL-TechCorp
+Proyek ini merupakan bagian dari kursus online SQL yang saya ikuti. Tujuan proyek ini adalah untuk menganalisis data menggunakan query SQL dan memberikan wawasan mengenai dataset yang digunakan. Pada proyek ini, saya membuat data secara manual dari awal hingga melakukan analisis dengan menggunakan query seperti pembuatan database, pembuatan tabel, menginput data, dan menganalisis data.
